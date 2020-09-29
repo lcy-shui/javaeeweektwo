@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="woke20200923:war">
+    <output-path>$PROJECT_DIR$/woke20200923/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>woke20200923</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="woke20200923.war">
+      <element id="artifact" artifact-name="woke20200923:war exploded" />
+    </root>
+  </artifact>
+</component>
